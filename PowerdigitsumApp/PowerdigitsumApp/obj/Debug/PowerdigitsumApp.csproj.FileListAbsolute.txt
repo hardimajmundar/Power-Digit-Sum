@@ -1,0 +1,6 @@
+C:\Users\dhshah\Documents\Hardi\App\Application2\PowerdigitsumApp\PowerdigitsumApp\bin\Debug\PowerdigitsumApp.exe.config
+C:\Users\dhshah\Documents\Hardi\App\Application2\PowerdigitsumApp\PowerdigitsumApp\bin\Debug\PowerdigitsumApp.exe
+C:\Users\dhshah\Documents\Hardi\App\Application2\PowerdigitsumApp\PowerdigitsumApp\bin\Debug\PowerdigitsumApp.pdb
+C:\Users\dhshah\Documents\Hardi\App\Application2\PowerdigitsumApp\PowerdigitsumApp\obj\Debug\PowerdigitsumApp.csprojResolveAssemblyReference.cache
+C:\Users\dhshah\Documents\Hardi\App\Application2\PowerdigitsumApp\PowerdigitsumApp\obj\Debug\PowerdigitsumApp.exe
+C:\Users\dhshah\Documents\Hardi\App\Application2\PowerdigitsumApp\PowerdigitsumApp\obj\Debug\PowerdigitsumApp.pdb
